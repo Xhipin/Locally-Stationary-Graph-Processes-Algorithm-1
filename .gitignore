@@ -1,0 +1,6 @@
+desktop.ini
+*.mat
+*.txt
+
+!.gitignore
+!meta_data_molene.mat
